@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlinbmi</string>
+    <string name="name_user">Name</string>
+    <string name="weight_user">Weight</string>
+    <string name="height_user">Height</string>
+    <string name="bmi_user">BMI</string>
+    <string name="clean">Clean</string>
+    <string name="enter">Enter</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
